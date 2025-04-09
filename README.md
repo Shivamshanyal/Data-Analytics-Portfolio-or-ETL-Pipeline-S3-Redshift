@@ -1,2 +1,2 @@
-# Data-Analytics-Portfolio-or-ETL-Pipeline-S3-Redshift
+# Data-Analytics-Portfolio-and-ETL-Pipeline-S3-Redshift
 My personal data projects portfolio
